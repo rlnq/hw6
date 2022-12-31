@@ -42,14 +42,11 @@
 > To destroy your infrastructure, type `terraform destroy`, and press Enter.
 
 
-
-
-
-
-## terraform apply output
+## `terraform apply`output ( or you can use command `terraform output`)
 ![image](https://user-images.githubusercontent.com/117667360/210148511-629cd545-83b9-41e7-8fc5-b0361a308b63.png)
 
-ps: "1 added" as this was the second attempt to run `terraform apply`
+
+> ps: "1 added" as this was the second attempt to run `terraform apply`
 
 ## Useful links: 
 
