@@ -18,8 +18,11 @@
 
 > `git clone https://github.com/rlnq/hw6.git`
 
+* [Install Terraform](https://developer.hashicorp.com/terraform/downloads?product_intent=terraform)
+
 * [Install the Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 * [Sign in with Azure CLI](https://learn.microsoft.com/en-us/cli/azure/authenticate-azure-cli)
+
 * [Install the latest version of the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 * [Set the environment variables to configure the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
 
@@ -37,16 +40,15 @@
 
 * Manage your infrastructure:
 
-> To make changes to your infrastructure, modify your configuration file and then run terraform apply again.
+> To make changes to your infrastructure, modify your configuration file and then run `terraform apply` again.
 
 > To destroy your infrastructure, type `terraform destroy`, and press Enter.
 
 
 ## `terraform apply`output ( or you can use command `terraform output`)
-![image](https://user-images.githubusercontent.com/117667360/210148511-629cd545-83b9-41e7-8fc5-b0361a308b63.png)
 
+![image](https://user-images.githubusercontent.com/117667360/210153686-83dcfc8f-c7bf-48af-a54c-dc2da83d62ba.png)
 
-> ps: "1 added" as this was the second attempt to run `terraform apply`
 
 ## Useful links: 
 
