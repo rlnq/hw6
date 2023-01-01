@@ -14,6 +14,8 @@
 
 ## Steps: 
 
+* To clone a repository to your local machine, you'll need to have Git installed. If you don't already have it installed, you can download it from the official website - [Git download](https://git-scm.com/downloads) 
+
 * Git clone to local storage:
 
 > `git clone https://github.com/rlnq/hw6.git`
